@@ -21,7 +21,7 @@ using namespace std;
 
     📌 Function Syntax:
         return_type function_name(parameters) {
-            // function body
+          
         }
 
     Example:
