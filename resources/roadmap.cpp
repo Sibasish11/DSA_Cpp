@@ -1,7 +1,6 @@
 DSA_Cpp/
 │
-├── README.md                 
-├── LICENSE                   
+├── README.md                                   
 ├── .gitignore               
 │
 ├── 00-Basics/                 # C++ basics before DSA
